@@ -1,0 +1,11 @@
+- Messenger:
+  - Signal: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+
+- Browser:
+  - Tor-Browser:
+  - Ghostery: https://www.ghostery.com/de/
+  - Privacy Badget: https://www.eff.org/de/node/99095
+  - HTTPS Everywhere: https://www.eff.org/de/https-everywhere
+  - uBlock Origin:
+    - Für Chromium und Chrome: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=de
+    - Für Firefox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
