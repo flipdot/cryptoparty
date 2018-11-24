@@ -1,4 +1,5 @@
-Optik
+cryptoparty
+
 =====
 
-This is a collection of all the web and print media for the flipdot project. You are welcome to join us.
+Präsentation und Bilder zur Cryptoparty für Jugend @ Amnesty am 23.11.2018
